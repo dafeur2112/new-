@@ -21,7 +21,7 @@ dependencies:
   http: ^0.13.3 # Use the latest compatible version
   firebase_database: ^10.1.0
   flutter_animate: ^4.2.0
-  cupertino_icons: ^1.0.8
+  cupertino_icons: ^1.0.5
   firebase_messaging: ^14.0.0
 
 
